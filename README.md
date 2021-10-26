@@ -3,6 +3,8 @@
 Task Definition：
 Please refer [here](https://videorelation.nextcenter.org/mm19-gdc/task3.html).
 
+
+Publication:
 | **Year** | **Author**                                                                           | **Title**                                                                                             | **Paper Link**                                                                                                                                                                 |
 |----------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 2017     | Xindi Shang, Tongwei Ren, Jingfan Guo, Hanwang Zhang, and Tat-Seng Chua              | Video visual relation detection                                                                       | [Paper](https://xdshang.github.io/docs/imagenet-vidvrd.html)                                                                                                                   |
